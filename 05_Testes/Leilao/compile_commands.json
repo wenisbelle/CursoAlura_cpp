@@ -1,0 +1,53 @@
+[{
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/teste-avaliador.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/teste-avaliador.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/teste-avaliador.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/catch.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/catch.hpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/catch.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/test-usuario.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/test-usuario.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/test-usuario.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/main-test.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/main-test.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/main-test.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Lance.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Lance.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Lance.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Usuario.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Usuario.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Usuario.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Leilao.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Leilao.hpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Leilao.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Lance.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Lance.hpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Lance.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Leilao.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Leilao.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Leilao.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Avaliador.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Avaliador.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Avaliador.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/test-leilao.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/test-leilao.cpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/tests/test-leilao.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Avaliador.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Avaliador.hpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Avaliador.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Usuario.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Usuario.hpp -o /home/wenis/Cursos_Alura/C++/05_Testes/Leilao/Leilao/src/Usuario.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]

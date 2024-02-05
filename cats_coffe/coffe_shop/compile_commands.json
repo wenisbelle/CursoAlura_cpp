@@ -1,0 +1,37 @@
+[{
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/main.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/main.cpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/main.cpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/customer.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/customer.cpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/customer.cpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/cat.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/cat.cpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/cat.cpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/treat.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/treat.cpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/treat.cpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/special_cat.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/special_cat.cpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/special_cat.cpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/customer.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/customer.hpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/customer.hpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/cat.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/cat.hpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/cat.hpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/treat.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/treat.hpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/treat.hpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/special_cat.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/special_cat.hpp -o /home/wenis/Cursos_Alura/C++/cats_coffe/coffe_shop/coffe_shop/include/special_cat.hpp.o  -I. -Iinclude  -gdwarf-2  -O0  -Wall"
+ }]

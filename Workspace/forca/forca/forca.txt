@@ -1,0 +1,1 @@
+./Debug/forca.cpp.o ./Debug/imprimi_erros.cpp.o ./Debug/adiciona_palavra.cpp.o ./Debug/salva_arquivo.cpp.o ./Debug/nao_acertou.cpp.o ./Debug/sorteia_palavra.cpp.o ./Debug/letra_existe.cpp.o ./Debug/chuta.cpp.o ./Debug/le_arquivo.cpp.o ./Debug/imprimi_palavra.cpp.o

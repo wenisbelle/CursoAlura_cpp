@@ -1,0 +1,1 @@
+./Debug/src_main.cpp.o ./Debug/src_Avaliador.cpp.o ./Debug/src_Lance.cpp.o ./Debug/src_Leilao.cpp.o ./Debug/src_Usuario.cpp.o

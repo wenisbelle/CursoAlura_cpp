@@ -1,0 +1,1 @@
+./Debug/tests_test-usuario.cpp.o ./Debug/tests_teste-avaliador.cpp.o ./Debug/tests_main-test.cpp.o ./Debug/src_Lance.cpp.o ./Debug/src_Usuario.cpp.o ./Debug/src_Leilao.cpp.o ./Debug/src_Avaliador.cpp.o ./Debug/tests_test-leilao.cpp.o

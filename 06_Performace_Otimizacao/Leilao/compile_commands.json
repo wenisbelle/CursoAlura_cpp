@@ -1,0 +1,37 @@
+[{
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Usuario.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Usuario.cpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Usuario.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Leilao.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Leilao.hpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Leilao.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Leilao.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Leilao.cpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Leilao.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Lance.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Lance.hpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Lance.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Lance.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Lance.cpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Lance.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Avaliador.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Avaliador.hpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Avaliador.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Avaliador.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Avaliador.cpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Avaliador.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Usuario.hpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Usuario.hpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/Usuario.hpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/main.cpp",
+  "directory": "/home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao",
+  "command": "clang++ -c /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/main.cpp -o /home/wenis/Cursos_Alura/C++/06_Performace_Otimizacao/Leilao/Leilao/src/main.cpp.o  -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]
